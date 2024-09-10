@@ -61,8 +61,8 @@
             </li> -->
           </ul>
           <div class="d-flex flex-row-reverse">
-            <div class="p-2 navbar-brand text-white">+1(813)939-3233</div>
-            <button class="btn btn-primary btn-sm" onclick="document.getElementById('target-section').scrollIntoView({behavior: 'smooth'})">Talk to an Expert</button>
+           <div class="p-2 navbar-brand text-white"><a href="tel:+18139393233"><img src="https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-phone-line-icon-on-a-white-background-png-image_4830670.png" height="32px" width="32px">+1(813)-939-3233</a></div> 
+            <button class="btn btn-primary btn-sm" onclick="document.getElementById('target-section').scrollIntoView({behavior: 'smooth'})" >Talk to an Expert</button>
           </div>
           <!-- Search option -->
           <!-- <form class="form-inline mt-2 mt-md-0">

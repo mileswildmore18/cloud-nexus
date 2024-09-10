@@ -1,0 +1,14 @@
+.p-2 {
+    background-color: #36628C;
+    border-radius: 15px;
+}
+
+img {
+   font-size: 70px;
+   color: #ffffff;
+}
+
+a:link {
+   color: #FFFFFF;
+   text-decoration: none;
+}
