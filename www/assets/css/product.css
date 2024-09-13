@@ -18,6 +18,7 @@ p {
 .container-main {
   padding: 0;
   margin: auto;
+  overflow: hidden;
 }
 
 .container {
