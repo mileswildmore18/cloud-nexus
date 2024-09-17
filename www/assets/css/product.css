@@ -16,7 +16,7 @@ p {
 }
 
 .container-main {
-  padding: 0;
+  padding: auto;
   margin: auto;
   overflow: hidden;
   background-color: #36628c;
@@ -34,7 +34,7 @@ p {
   color: white;
   background-color: #36628c;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   margin: auto;
   padding: 20px;
 }
@@ -114,25 +114,23 @@ p {
 
 .carousel-indicators [data-bs-target] {
   width: 60px;
-  height: 10px;
+  height: 5px;
   background-color: white;
   margin: auto;
 }
 
 .carousel-control-prev {
-  padding-top: 175px;
   left: 0;
   background-color: #36628c;
-  height: 30px;
+  height: 100%;
   color: white;
   border: none;
 }
 
 .carousel-control-next {
-  padding-top: 175px;
   right: 0;
   background-color: #36628c;
-  height: 30px;
+  height: 100%;
   color: white;
   border: none;
 }

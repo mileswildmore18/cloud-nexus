@@ -1,12 +1,12 @@
 .p-2 {
     background-color: #36628C;
-    border-radius: 30px;
-    
+    border-radius: 5px;
+    margin-left: 1%;
 }
 
 header a {
    display: flex;
-   padding-right: 1%;
+   padding-right: 5%;
 }
 
 a:link {
