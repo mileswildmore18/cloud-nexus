@@ -30,7 +30,7 @@
     </div>
     <div class="col-sm-12">
       <div id="customers" class="carousel slide" style="margin: 5px">
-        <div class="carousel-indicators" style="margin: 5px">
+        <div class="carousel-indicators">
           <button type="button" data-bs-target="#customers" data-bs-slide-to="0"  aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#customers" data-bs-slide-to="1" class="active" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#customers" data-bs-slide-to="2" aria-label="Slide 3"></button>
@@ -43,7 +43,7 @@
             <div class="content text-center">
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia mollitia nulla rem ut possimus veritatis, inventore dolores optio voluptas quo eligendi exercitationem voluptatum atque commodi? Magni eveniet tenetur hic provident.</p>
               <div class="person">
-                <img src="#" alt="">
+                <img src="./assets/Miles.jpg" alt="Miles Wildmore">
               </div>
               <h5>Miles Wildmore</h5>
               <h6>Front-End Web Developer</h6>
@@ -56,7 +56,7 @@
             <div class="content text-center">
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia mollitia nulla rem ut possimus veritatis, inventore dolores optio voluptas quo eligendi exercitationem voluptatum atque commodi? Magni eveniet tenetur hic provident.</p>
               <div class="person">
-                <img src="#" alt="">
+                <img src="./assets/Nicholas.jpg" alt="">
               </div>
               <h5>Nicolas Cawein</h5>
               <h6>IT Consultant</h6>
