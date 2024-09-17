@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="col-sm-12">
-      <div id="customers" class="carousel slide">
+      <div id="customers" class="carousel slide" style="margin: 5px">
         <div class="carousel-indicators" style="margin: 5px">
           <button type="button" data-bs-target="#customers" data-bs-slide-to="0"  aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#customers" data-bs-slide-to="1" class="active" aria-label="Slide 2"></button>
